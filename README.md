@@ -1,6 +1,6 @@
 ## Prefácio
 
-Há duas estratégias principais nesse trabalho, uma está no nodebook [LopesBin.ipynb](https://github.com/dbranquinho/wine/blob/master/LopesBin.ipynb) o outro
+Há duas estratégias principais nesse trabalho, uma está no nodebook [LopesBin.ipynb](https://github.com/dbranquinho/wine/blob/master/LopesBin.ipynb) o outro [lopes.ipynb](https://github.com/dbranquinho/wine/blob/master/lopes.ipynb)
 
 ## Introdução
 O presente problema se refere aos dados de vinhos portugueses "Vinho Verde", que possuem variantes de vinho branco e tinto. Devido a questões de privacidade, apenas variáveis físico-químicas (input) e sensoriais (output) estão disponíveis (por exemplo, não há dados sobre tipo de uva, marca do vinho, preço de venda, etc).
